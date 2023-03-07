@@ -1,0 +1,20 @@
+/* @font-face {
+  font-family: Raleway-Bold;
+  src: url("/public/Raleway-Bold.ttf");
+} */
+
+@font-face {
+  font-family: Optima;
+  src: url("../assets/optima.TTF");
+}
+
+@font-face {
+  font-family: OpenSans;
+  src: url("../assets/OpenSans-Regular.ttf");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

@@ -1,0 +1,14 @@
+.about {
+    margin-top: 30px;
+}
+
+.text {
+    color: #5C5A4F;
+}
+
+.imageWrapper {
+    border-radius: 50%;
+    margin: 0 auto;
+    display: flex;
+    /* justify-content: center; */
+  }
